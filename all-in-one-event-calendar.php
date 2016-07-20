@@ -1,13 +1,15 @@
 <?php
 /**
- * Plugin Name: All-in-One Event Calendar by Time.ly
- * Plugin URI: http://wordpress.org/plugins/all-in-one-event-calendar/
+ * Plugin Name: WRDSB Event Manager
+ * Plugin URI: https://github.com/wrdsb/wordpress-plugin-event-manager
  * Description: A calendar system with month, week, day, agenda views, upcoming events widget, color-coded categories, recurrence, and import/export of .ics feeds.
- * Author: Time.ly Network Inc.
- * Author URI: http://time.ly/
+ * Author: WRDSB, Time.ly Network Inc.
+ * Author URI: http://www.wrdsb.ca
  * Version: 2.4.1
  * Text Domain: all-in-one-event-calendar
  * Domain Path: /language
+ * GitHub Plugin URI: wrdsb/wordpress-plugin-event-manager
+ * GitHub Branch: master
  */
 $ai1ec_base_dir = dirname( __FILE__ );
 $ai1ec_base_url = plugins_url( '', __FILE__ );
